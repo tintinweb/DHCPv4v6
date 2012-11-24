@@ -7,6 +7,7 @@ Todo
 ========
 * make threadable
 * support more dhcp states
+* fix v6 code!
 
 Usage
 ========
